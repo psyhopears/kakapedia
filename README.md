@@ -1,4 +1,4 @@
-#KAKAPEDIA
+# KAKAPEDIA
 ###### css for Wikipedia
 ---
 installation requires a plugin that can import styles
